@@ -5,5 +5,6 @@ Linux Commands
 4. mkdir <directory> – create a new directory
 5. rm <file> – remove a file
 6. rm -r <directory> – remove a directory recursively
+7. cat <file> – view contents of a file
 
 Git Commands
