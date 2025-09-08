@@ -4,5 +4,6 @@ Linux Commands
 3. pwd – print working directory
 4. mkdir <directory> – create a new directory
 5. rm <file> – remove a file
+6. rm -r <directory> – remove a directory recursively
 
 Git Commands
