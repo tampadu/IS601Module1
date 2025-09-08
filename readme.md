@@ -6,5 +6,6 @@ Linux Commands
 5. rm <file> – remove a file
 6. rm -r <directory> – remove a directory recursively
 7. cat <file> – view contents of a file
+8. touch <file> – create an empty file
 
 Git Commands
