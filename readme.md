@@ -15,3 +15,4 @@ Git Commands
 12. git diff – show changes between commits/working tree
 13. git branch – list branches
 14. git pull – fetch + merge from remote
+15. git status – check repo status
