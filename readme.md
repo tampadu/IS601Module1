@@ -11,3 +11,4 @@ Linux Commands
 Git Commands
 9. git init – initialize a repository
 10. git add . – stage all changes
+11. git log – view commit history
