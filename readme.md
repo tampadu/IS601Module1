@@ -9,3 +9,4 @@ Linux Commands
 8. touch <file> – create an empty file
 
 Git Commands
+9. git init – initialize a repository
