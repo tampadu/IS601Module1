@@ -14,3 +14,4 @@ Git Commands
 11. git log – view commit history
 12. git diff – show changes between commits/working tree
 13. git branch – list branches
+14. git pull – fetch + merge from remote
