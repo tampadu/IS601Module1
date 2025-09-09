@@ -13,3 +13,4 @@ Git Commands
 10. git add . – stage all changes
 11. git log – view commit history
 12. git diff – show changes between commits/working tree
+13. git branch – list branches
